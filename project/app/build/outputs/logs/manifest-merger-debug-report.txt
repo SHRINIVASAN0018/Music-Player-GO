@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\54d504523a61607f3116057713700006\transformed\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\1b085a2bf27d8085a4f67c46c431f0c3\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\shrin\.gradle\caches\transforms-3\b0fe5da91a952d3f5b01b105fdcc0124\transformed\recyclerview-fastscroll-1.0.18\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\be4eb3b4b7b2a747c042c3436e6235b9\transformed\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\55e518342a7e39f02038f38eb55622e3\transformed\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\c031cb7a2c1d869a6b98b82334412367\transformed\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\17e2133422dad273ab5f19c777530ec0\transformed\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\17b9d6d6b72535a9ea0f7eeeebb6092a\transformed\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\shrin\.gradle\caches\transforms-3\f05a3a402937bbb1a65a23cc191e46e6\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\shrin\.gradle\caches\transforms-3\32d660bd6296c05676ac72fd873bc8cb\transformed\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\shrin\.gradle\caches\transforms-3\bfa1ffedd409e3d93e427991e77e93e6\transformed\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\shrin\.gradle\caches\transforms-3\76c59fefd48c0995caa1ea277a8c34b7\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:8:5-24:19
+	android:supportsRtl
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.iven.musicplayergo.MainActivity
+ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:20:27-74
+service#com.iven.musicplayergo.playback.MusicService
+ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:23:18-55
+uses-sdk
+INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\54d504523a61607f3116057713700006\transformed\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\54d504523a61607f3116057713700006\transformed\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\1b085a2bf27d8085a4f67c46c431f0c3\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\1b085a2bf27d8085a4f67c46c431f0c3\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\shrin\.gradle\caches\transforms-3\b0fe5da91a952d3f5b01b105fdcc0124\transformed\recyclerview-fastscroll-1.0.18\AndroidManifest.xml:7:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\shrin\.gradle\caches\transforms-3\b0fe5da91a952d3f5b01b105fdcc0124\transformed\recyclerview-fastscroll-1.0.18\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\be4eb3b4b7b2a747c042c3436e6235b9\transformed\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\be4eb3b4b7b2a747c042c3436e6235b9\transformed\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\55e518342a7e39f02038f38eb55622e3\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\55e518342a7e39f02038f38eb55622e3\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\c031cb7a2c1d869a6b98b82334412367\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\c031cb7a2c1d869a6b98b82334412367\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\17e2133422dad273ab5f19c777530ec0\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\17e2133422dad273ab5f19c777530ec0\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\17b9d6d6b72535a9ea0f7eeeebb6092a\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\shrin\.gradle\caches\transforms-3\17b9d6d6b72535a9ea0f7eeeebb6092a\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\shrin\.gradle\caches\transforms-3\f05a3a402937bbb1a65a23cc191e46e6\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\shrin\.gradle\caches\transforms-3\f05a3a402937bbb1a65a23cc191e46e6\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\shrin\.gradle\caches\transforms-3\32d660bd6296c05676ac72fd873bc8cb\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\shrin\.gradle\caches\transforms-3\32d660bd6296c05676ac72fd873bc8cb\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\shrin\.gradle\caches\transforms-3\bfa1ffedd409e3d93e427991e77e93e6\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\shrin\.gradle\caches\transforms-3\bfa1ffedd409e3d93e427991e77e93e6\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\shrin\.gradle\caches\transforms-3\76c59fefd48c0995caa1ea277a8c34b7\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\shrin\.gradle\caches\transforms-3\76c59fefd48c0995caa1ea277a8c34b7\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shrin\Downloads\PRO_MUSIC_PLAYER_APPLICATION_IN_ANDROID_WITH_SOURCE_CODE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
